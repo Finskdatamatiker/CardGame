@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"<Unnamed>","l":"EtSaetKort"},{"p":"<Unnamed>","l":"KoererSystem"},{"p":"<Unnamed>","l":"Kort"},{"p":"<Unnamed>","l":"KortSystem"},{"p":"<Unnamed>","l":"Kuloer"},{"p":"<Unnamed>","l":"SaetGenerator"}]

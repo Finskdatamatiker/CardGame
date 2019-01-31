@@ -1,4 +1,4 @@
-/**
+a/**
 @author Päivi Eversbusch
 @version 1.0
 @since 29.1.2019
@@ -32,7 +32,7 @@ public class KortSystem
          {
          /**
          * Valget laeses med int
-         * String dummy laeser enter, men trykker på efter indtastningen.
+         * String dummy laeser et valg, hvis det ikke er int og beder om et heltal,
          */
             System.out.println(visMenu());
             while(!console.hasNextInt())
@@ -70,7 +70,7 @@ public class KortSystem
                
              }
       
-             else if (valg == 0)
+             else if (valg == 2)
              {
              /**
              * Først trækker vi det øverste kort, så blander vi og  
